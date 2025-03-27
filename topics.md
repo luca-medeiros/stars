@@ -360,6 +360,7 @@
 
 ## computer-vision 
 
+- [roboflow/rf-detr](https://github.com/roboflow/rf-detr) - RF-DETR is a real-time object detection model architecture developed by Roboflow, SOTA on COCO & designed for fine-tuning.
 - [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording
 - [openfoodfacts/openfoodfacts-ai](https://github.com/openfoodfacts/openfoodfacts-ai) - This is a tracking repo for all our AI projects.  🍕 🤖🍼
 - [Renumics/spotlight](https://github.com/Renumics/spotlight) - Interactively explore unstructured datasets from your dataframe.
@@ -811,6 +812,7 @@
 
 ## machine-learning 
 
+- [roboflow/rf-detr](https://github.com/roboflow/rf-detr) - RF-DETR is a real-time object detection model architecture developed by Roboflow, SOTA on COCO & designed for fine-tuning.
 - [rapidsai/cuvs](https://github.com/rapidsai/cuvs) - cuVS - a library for vector search and clustering on the GPU
 - [PriorLabs/TabPFN](https://github.com/PriorLabs/TabPFN) - ⚡ TabPFN: Foundation Model for Tabular Data ⚡
 - [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording
@@ -1028,7 +1030,6 @@
 - [zjysteven/lmms-finetune](https://github.com/zjysteven/lmms-finetune) - A minimal codebase for finetuning large multimodal models, supporting llava-1.5/1.6, llava-interleave, llava-next-video, llava-onevision, llama-3.2-vision, qwen-vl, qwen2-vl, phi3-v etc.
 - [FrancescoSaverioZuppichini/python-template](https://github.com/FrancescoSaverioZuppichini/python-template) - 
 - [microsoft/LLM2CLIP](https://github.com/microsoft/LLM2CLIP) - LLM2CLIP makes SOTA pretrained CLIP model more SOTA ever.
-- [NVlabs/Sana](https://github.com/NVlabs/Sana) - SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer
 - [hkdobrev/cleanmac](https://github.com/hkdobrev/cleanmac) - Clean your macOS with a script, not an expensive app
 - [yangchris11/samurai](https://github.com/yangchris11/samurai) - Official repository of "SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory"
 - [kixlab/starlab-video-analysis-pipeline](https://github.com/kixlab/starlab-video-analysis-pipeline) - Pipeline for Extracting and Organizing Procedural Information in Tutorial Videos
@@ -1296,6 +1297,7 @@
 
 ## pytorch 
 
+- [NVlabs/Sana](https://github.com/NVlabs/Sana) - SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer
 - [pytorch/ao](https://github.com/pytorch/ao) - PyTorch native quantization and sparsity for training and inference
 - [aliasgharkhani/SLiMe](https://github.com/aliasgharkhani/SLiMe) - 1-shot image segmentation using Stable Diffusion
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
