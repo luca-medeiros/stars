@@ -208,6 +208,7 @@
 
 ## Python 
 
+- [roboflow/rf-detr](https://github.com/roboflow/rf-detr) - RF-DETR is a real-time object detection model architecture developed by Roboflow, SOTA on COCO & designed for fine-tuning.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [prs-eth/thera](https://github.com/prs-eth/thera) - Thera: Aliasing-Free Arbitrary-Scale Super-Resolution with Neural Heat Fields
 - [letta-ai/letta](https://github.com/letta-ai/letta) - Letta (formerly MemGPT) is the stateful agents framework with memory, reasoning, and context management.
