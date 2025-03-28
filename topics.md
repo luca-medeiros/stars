@@ -143,6 +143,7 @@
 - [terminal](#terminal)
 - [terraform](#terraform)
 - [testing](#testing)
+- [text-to-speech](#text-to-speech)
 - [trading](#trading)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
@@ -1057,7 +1058,6 @@
 - [PAIR-code/llm-comparator](https://github.com/PAIR-code/llm-comparator) - LLM Comparator is an interactive data visualization tool for evaluating and analyzing LLM responses side-by-side, developed by the PAIR team.
 - [NVIDIA/TensorRT-Model-Optimizer](https://github.com/NVIDIA/TensorRT-Model-Optimizer) - A unified library of state-of-the-art model optimization techniques such as quantization, pruning, distillation, speculative decoding, etc. It compresses deep learning models for downstream deployment
 - [D-Star-AI/dsRAG](https://github.com/D-Star-AI/dsRAG) - High-performance retrieval engine for unstructured data
-- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell. Audio foundation model.
 - [yisol/IDM-VTON](https://github.com/yisol/IDM-VTON) - [ECCV2024] IDM-VTON : Improving Diffusion Models for Authentic Virtual Try-on in the Wild
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [facebookresearch/schedule_free](https://github.com/facebookresearch/schedule_free) - Schedule-Free Optimization in PyTorch
@@ -1545,6 +1545,10 @@
 
 - [scanapi/scanapi](https://github.com/scanapi/scanapi) - Automated Integration Testing and Live Documentation for your API
 - [15r10nk/inline-snapshot](https://github.com/15r10nk/inline-snapshot) - create and update inline snapshots in your python tests
+
+## text-to-speech 
+
+- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell. Audio foundation model.
 
 ## trading 
 
