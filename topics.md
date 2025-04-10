@@ -1011,6 +1011,7 @@
 
 ## others 
 
+- [reteps/dockerfmt](https://github.com/reteps/dockerfmt) - Dockerfile formatter. a modern dockfmt.
 - [NVlabs/RADIO](https://github.com/NVlabs/RADIO) - Official repository for "AM-RADIO: Reduce All Domains Into One"
 - [facebookresearch/faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
 - [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) - A Datacenter Scale Distributed Inference Serving Framework
