@@ -784,6 +784,7 @@
 
 ## llm 
 
+- [stair-lab/kg-gen](https://github.com/stair-lab/kg-gen) - Knowledge Graph Generation from Any Text
 - [letta-ai/letta](https://github.com/letta-ai/letta) - Letta (formerly MemGPT) is the stateful agents framework with memory, reasoning, and context management.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
 - [rapidsai/cuvs](https://github.com/rapidsai/cuvs) - cuVS - a library for vector search and clustering on the GPU
