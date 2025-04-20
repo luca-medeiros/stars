@@ -1099,7 +1099,7 @@
 - [astral-sh/ruff-pre-commit](https://github.com/astral-sh/ruff-pre-commit) - A pre-commit hook for Ruff.
 - [tairov/llama2.mojo](https://github.com/tairov/llama2.mojo) - Inference Llama 2 in one file of pure 🔥
 - [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) - The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams
-- [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficientl
+- [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and support state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-L
 - [YuchenLiu98/COMM](https://github.com/YuchenLiu98/COMM) - Pytorch code for paper From CLIP to DINO: Visual Encoders Shout in Multi-modal Large Language Models
 - [apple/ml-ferret](https://github.com/apple/ml-ferret) - 
 - [kaist-ami/TextManiA](https://github.com/kaist-ami/TextManiA) - [ICCV’23] Official repository for "TextManiA: Enriching Visual Feature by Text-driven Manifold Augmentation"
