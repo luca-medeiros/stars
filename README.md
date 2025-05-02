@@ -252,7 +252,7 @@
 - [Lightning-AI/LitServe](https://github.com/Lightning-AI/LitServe) - Deploy high-performance AI models and inference pipelines on FastAPI with built-in batching, streaming and more.
 - [facebookresearch/sapiens](https://github.com/facebookresearch/sapiens) - High-resolution models for human tasks.
 - [amazon-science/QA-ViT](https://github.com/amazon-science/QA-ViT) - 
-- [microsoft/MInference](https://github.com/microsoft/MInference) - [NeurIPS'24 Spotlight, ICLR'25] To speed up Long-context LLMs' inference, approximate and dynamic sparse calculate the attention, which reduces inference latency by up to 10x for pre-filling on an A10
+- [microsoft/MInference](https://github.com/microsoft/MInference) - [NeurIPS'24 Spotlight, ICLR'25, ICML'25] To speed up Long-context LLMs' inference, approximate and dynamic sparse calculate the attention, which reduces inference latency by up to 10x for pre-filling 
 - [apple/ml-4m](https://github.com/apple/ml-4m) - 4M: Massively Multimodal Masked Modeling
 - [jacobmarks/image-quality-issues](https://github.com/jacobmarks/image-quality-issues) - FiftyOne Plugin for finding common image quality issues
 - [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - SoTA production-ready AI retrieval system. Agentic Retrieval-Augmented Generation (RAG) with a RESTful API.
