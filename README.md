@@ -210,6 +210,7 @@
 
 ## Python 
 
+- [apple/ml-fastvlm](https://github.com/apple/ml-fastvlm) - This repository contains the official implementation of "FastVLM: Efficient Vision Encoding for Vision Language Models" - CVPR 2025
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
 - [lightly-ai/lightly-train](https://github.com/lightly-ai/lightly-train) - LightlyTrain is the first PyTorch framework to pretrain computer vision models on unlabeled data for industrial applications
 - [stair-lab/kg-gen](https://github.com/stair-lab/kg-gen) - Knowledge Graph Generation from Any Text
