@@ -140,7 +140,6 @@
 - [SysCV/sam-hq](https://github.com/SysCV/sam-hq) - Segment Anything in High Quality [NeurIPS 2023]
 - [LucasOsco/AI-RemoteSensing](https://github.com/LucasOsco/AI-RemoteSensing) - 
 - [facebookresearch/dinov2](https://github.com/facebookresearch/dinov2) - PyTorch code and models for the DINOv2 self-supervised learning method.
-- [paninski-lab/lightning-pose](https://github.com/paninski-lab/lightning-pose) - Accelerated pose estimation and tracking using semi-supervised convolutional networks.
 - [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
 - [cloneofsimo/lora](https://github.com/cloneofsimo/lora) - Using Low-rank adaptation to quickly fine-tune diffusion models.
 - [lxe/simple-llm-finetuner](https://github.com/lxe/simple-llm-finetuner) - Simple UI for LLM Model Finetuning
@@ -333,6 +332,7 @@
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [deep-floyd/IF](https://github.com/deep-floyd/IF) - 
 - [luca-medeiros/lightning-sam](https://github.com/luca-medeiros/lightning-sam) - Fine-tune Segment-Anything Model with Lightning Fabric.
+- [paninski-lab/lightning-pose](https://github.com/paninski-lab/lightning-pose) - Accelerated pose estimation and tracking using semi-supervised convolutional networks.
 - [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
 - [sangrokleeeeee/DAC](https://github.com/sangrokleeeeee/DAC) - (CVPR2023) official code of Decompose, Adjust, Compose: Effective Normalization by Playing with Frequency for Domain Generalization
 - [luca-medeiros/lang-segment-anything](https://github.com/luca-medeiros/lang-segment-anything) - SAM with text prompt
