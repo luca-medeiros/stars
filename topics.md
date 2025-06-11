@@ -1081,7 +1081,7 @@
 - [erdogant/findpeaks](https://github.com/erdogant/findpeaks) - The detection of peaks and valleys in a 1d-vector or 2d-array (image)
 - [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
 - [PAIR-code/llm-comparator](https://github.com/PAIR-code/llm-comparator) - LLM Comparator is an interactive data visualization tool for evaluating and analyzing LLM responses side-by-side, developed by the PAIR team.
-- [NVIDIA/TensorRT-Model-Optimizer](https://github.com/NVIDIA/TensorRT-Model-Optimizer) - nvidia-modelopt is a unified library of state-of-the-art model optimization techniques like quantization, pruning, distillation, speculative decoding, etc. It compresses deep learning models for downs
+- [NVIDIA/TensorRT-Model-Optimizer](https://github.com/NVIDIA/TensorRT-Model-Optimizer) - A unified library of state-of-the-art model optimization techniques like quantization, pruning, distillation, speculative decoding, etc. It compresses deep learning models for downstream deployment fr
 - [D-Star-AI/dsRAG](https://github.com/D-Star-AI/dsRAG) - High-performance retrieval engine for unstructured data
 - [yisol/IDM-VTON](https://github.com/yisol/IDM-VTON) - [ECCV2024] IDM-VTON : Improving Diffusion Models for Authentic Virtual Try-on in the Wild
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
