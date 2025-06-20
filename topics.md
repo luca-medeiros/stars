@@ -1042,6 +1042,7 @@
 
 ## others 
 
+- [featureform/enrichmcp](https://github.com/featureform/enrichmcp) - EnrichMCP is a python framework for building data driven MCP servers
 - [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA open-source TTS
 - [muliswilliam/webhook-tester](https://github.com/muliswilliam/webhook-tester) - A lightweight, developer-friendly platform for testing and debugging webhooks — built in Go.
 - [apple/ml-fastvlm](https://github.com/apple/ml-fastvlm) - This repository contains the official implementation of "FastVLM: Efficient Vision Encoding for Vision Language Models" - CVPR 2025
