@@ -1042,6 +1042,8 @@
 
 ## others 
 
+- [Photoroom/dataroom](https://github.com/Photoroom/dataroom) - Framework based on a vector dabase to store, manage and curate large image datasets
+- [Cykooz/fast_image_resize](https://github.com/Cykooz/fast_image_resize) - Rust library for fast image resizing with using of SIMD instructions.
 - [featureform/enrichmcp](https://github.com/featureform/enrichmcp) - EnrichMCP is a python framework for building data driven MCP servers
 - [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA open-source TTS
 - [muliswilliam/webhook-tester](https://github.com/muliswilliam/webhook-tester) - A lightweight, developer-friendly platform for testing and debugging webhooks — built in Go.
