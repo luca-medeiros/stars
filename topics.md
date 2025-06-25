@@ -1110,7 +1110,7 @@
 - [Dref360/spectral-metric](https://github.com/Dref360/spectral-metric) - Code for the CVPR 2019 paper : Spectral Metric for Dataset Complexity Assessment
 - [OpenBMB/MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o) - MiniCPM-o 2.6: A GPT-4o Level MLLM for Vision, Speech and Multimodal Live Streaming on Your Phone
 - [NVlabs/VILA](https://github.com/NVlabs/VILA) - VILA is a family of state-of-the-art vision language models (VLMs) for diverse multimodal AI tasks across the edge, data center, and cloud.
-- [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval) - Accelerating the development of large multimodal models (LMMs) with one-click evaluation module - lmms-eval.
+- [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval) - One for All Modalities Evaluation Toolkit - including text, image, video, audio tasks.
 - [AnswerDotAI/fsdp_qlora](https://github.com/AnswerDotAI/fsdp_qlora) - Training LLMs with QLoRA + FSDP
 - [Meituan-AutoML/VisionLLaMA](https://github.com/Meituan-AutoML/VisionLLaMA) - VisionLLaMA: A Unified LLaMA Backbone for Vision Tasks
 - [xzz2/pa-sam](https://github.com/xzz2/pa-sam) - PA-SAM: Prompt Adapter SAM for High-quality Image Segmentation
