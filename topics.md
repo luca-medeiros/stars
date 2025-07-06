@@ -205,7 +205,7 @@
 - [ccbikai/Sink](https://github.com/ccbikai/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
 - [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel) - Openpanel is an open-source web and product analytics platform that combines the power of Mixpanel with the ease of Plausible and one of the best Google Analytics replacements.
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
-- [repohistory/repohistory](https://github.com/repohistory/repohistory) - Track GitHub repo traffic history longer than 14 days
+- [repohistory/repohistory](https://github.com/repohistory/repohistory) - Beautiful GitHub repository traffic dashboard without 14 days limit
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused alternative to Google Analytics.
 - [nebuly-ai/optimate](https://github.com/nebuly-ai/optimate) - A collection of libraries to optimise AI model performances
 
@@ -908,7 +908,7 @@
 
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
-- [repohistory/repohistory](https://github.com/repohistory/repohistory) - Track GitHub repo traffic history longer than 14 days
+- [repohistory/repohistory](https://github.com/repohistory/repohistory) - Beautiful GitHub repository traffic dashboard without 14 days limit
 
 ## mysql 
 
@@ -1566,7 +1566,7 @@
 ## statistics 
 
 - [rapidsai/cuvs](https://github.com/rapidsai/cuvs) - cuVS - a library for vector search and clustering on the GPU
-- [repohistory/repohistory](https://github.com/repohistory/repohistory) - Track GitHub repo traffic history longer than 14 days
+- [repohistory/repohistory](https://github.com/repohistory/repohistory) - Beautiful GitHub repository traffic dashboard without 14 days limit
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused alternative to Google Analytics.
 
 ## svelte 
