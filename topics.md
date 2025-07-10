@@ -1155,7 +1155,7 @@
 - [facebookresearch/ImageBind](https://github.com/facebookresearch/ImageBind) - ImageBind One Embedding Space to Bind Them All
 - [deep-floyd/IF](https://github.com/deep-floyd/IF) - 
 - [luca-medeiros/lightning-sam](https://github.com/luca-medeiros/lightning-sam) - Fine-tune Segment-Anything Model with Lightning Fabric.
-- [paninski-lab/lightning-pose](https://github.com/paninski-lab/lightning-pose) - Accelerated pose estimation and tracking using semi-supervised convolutional networks.
+- [paninski-lab/lightning-pose](https://github.com/paninski-lab/lightning-pose) - Accelerated pose estimation and tracking using semi-supervised learning
 - [sangrokleeeeee/DAC](https://github.com/sangrokleeeeee/DAC) - (CVPR2023) official code of Decompose, Adjust, Compose: Effective Normalization by Playing with Frequency for Domain Generalization
 - [luca-medeiros/lang-segment-anything](https://github.com/luca-medeiros/lang-segment-anything) - SAM with text prompt
 - [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
