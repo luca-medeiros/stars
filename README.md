@@ -340,7 +340,7 @@
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [deep-floyd/IF](https://github.com/deep-floyd/IF) - 
 - [luca-medeiros/lightning-sam](https://github.com/luca-medeiros/lightning-sam) - Fine-tune Segment-Anything Model with Lightning Fabric.
-- [paninski-lab/lightning-pose](https://github.com/paninski-lab/lightning-pose) - Accelerated pose estimation and tracking using semi-supervised convolutional networks.
+- [paninski-lab/lightning-pose](https://github.com/paninski-lab/lightning-pose) - Accelerated pose estimation and tracking using semi-supervised learning
 - [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
 - [sangrokleeeeee/DAC](https://github.com/sangrokleeeeee/DAC) - (CVPR2023) official code of Decompose, Adjust, Compose: Effective Normalization by Playing with Frequency for Domain Generalization
 - [luca-medeiros/lang-segment-anything](https://github.com/luca-medeiros/lang-segment-anything) - SAM with text prompt
