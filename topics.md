@@ -1114,7 +1114,7 @@
 - [Meituan-AutoML/VisionLLaMA](https://github.com/Meituan-AutoML/VisionLLaMA) - VisionLLaMA: A Unified LLaMA Backbone for Vision Tasks
 - [xzz2/pa-sam](https://github.com/xzz2/pa-sam) - PA-SAM: Prompt Adapter SAM for High-quality Image Segmentation
 - [LargeWorldModel/LWM](https://github.com/LargeWorldModel/LWM) - Large World Model -- Modeling Text and Video with Millions Context
-- [PKU-YuanGroup/MoE-LLaVA](https://github.com/PKU-YuanGroup/MoE-LLaVA) - Mixture-of-Experts for Large Vision-Language Models
+- [PKU-YuanGroup/MoE-LLaVA](https://github.com/PKU-YuanGroup/MoE-LLaVA) - 【TMM 2025🔥】 Mixture-of-Experts for Large Vision-Language Models
 - [vikhyat/moondream](https://github.com/vikhyat/moondream) - tiny vision language model
 - [huggingface/datatrove](https://github.com/huggingface/datatrove) - Freeing data processing from scripting madness by providing a set of platform-agnostic customizable pipeline processing blocks.
 - [ttscoff/curlyq](https://github.com/ttscoff/curlyq) - 
