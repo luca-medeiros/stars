@@ -300,7 +300,7 @@
 - [xzz2/pa-sam](https://github.com/xzz2/pa-sam) - PA-SAM: Prompt Adapter SAM for High-quality Image Segmentation
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
 - [LargeWorldModel/LWM](https://github.com/LargeWorldModel/LWM) - Large World Model -- Modeling Text and Video with Millions Context
-- [PKU-YuanGroup/MoE-LLaVA](https://github.com/PKU-YuanGroup/MoE-LLaVA) - Mixture-of-Experts for Large Vision-Language Models
+- [PKU-YuanGroup/MoE-LLaVA](https://github.com/PKU-YuanGroup/MoE-LLaVA) - 【TMM 2025🔥】 Mixture-of-Experts for Large Vision-Language Models
 - [Textualize/toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
 - [vikhyat/moondream](https://github.com/vikhyat/moondream) - tiny vision language model
 - [someengineering/fixinventory](https://github.com/someengineering/fixinventory) - Fix Inventory helps you identify and remove the most critical risks in AWS, GCP, Azure and Kubernetes.
