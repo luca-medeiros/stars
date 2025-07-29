@@ -1135,7 +1135,7 @@
 - [ttscoff/curlyq](https://github.com/ttscoff/curlyq) - 
 - [YS-L/csvlens](https://github.com/YS-L/csvlens) - Command line csv viewer
 - [aniketmaurya/fastserve-ai](https://github.com/aniketmaurya/fastserve-ai) - Machine Learning Serving focused on GenAI with simplicity as the top priority.
-- [THUDM/CogVLM](https://github.com/THUDM/CogVLM) - a state-of-the-art-level open visual language model | 多模态预训练模型
+- [zai-org/CogVLM](https://github.com/zai-org/CogVLM) - a state-of-the-art-level open visual language model | 多模态预训练模型
 - [pytorch-labs/segment-anything-fast](https://github.com/pytorch-labs/segment-anything-fast) - A batched offline inference oriented version of segment-anything
 - [aniketmaurya/discord-llm-bot](https://github.com/aniketmaurya/discord-llm-bot) - Fun project: LLM powered RAG Discord Bot that works seamlessly on CPU
 - [facebookresearch/MetaCLIP](https://github.com/facebookresearch/MetaCLIP) - ICLR2024 Spotlight: curation/training code, metadata, distribution and pre-trained models for MetaCLIP; CVPR 2024: MoDE: CLIP Data Experts via Clustering
