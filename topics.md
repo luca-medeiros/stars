@@ -209,7 +209,7 @@
 - [ccbikai/Sink](https://github.com/ccbikai/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
 - [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel) - Openpanel is an open-source web and product analytics platform that combines the power of Mixpanel with the ease of Plausible and one of the best Google Analytics replacements.
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
-- [repohistory/repohistory](https://github.com/repohistory/repohistory) - GitHub repo analytics without 14 days limit
+- [repohistory/repohistory](https://github.com/repohistory/repohistory) - GitHub repo analytics tool without 14 days limit
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused alternative to Google Analytics.
 - [nebuly-ai/optimate](https://github.com/nebuly-ai/optimate) - A collection of libraries to optimise AI model performances
 
@@ -1134,7 +1134,7 @@
 - [linhuixiao/CLIP-VG](https://github.com/linhuixiao/CLIP-VG) - [TMM 2023] Self-paced Curriculum Adapting of CLIP for Visual Grounding.
 - [facebookresearch/DCI](https://github.com/facebookresearch/DCI) - Densely Captioned Images (DCI) dataset repository.
 - [Dref360/spectral-metric](https://github.com/Dref360/spectral-metric) - Code for the CVPR 2019 paper : Spectral Metric for Dataset Complexity Assessment
-- [OpenBMB/MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o) - MiniCPM-o 2.6: A GPT-4o Level MLLM for Vision, Speech and Multimodal Live Streaming on Your Phone
+- [OpenBMB/MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o) - MiniCPM-V 4.0: A GPT-4V Level MLLM for Single Image, Multi Image and Video on Your Phone
 - [NVlabs/VILA](https://github.com/NVlabs/VILA) - VILA is a family of state-of-the-art vision language models (VLMs) for diverse multimodal AI tasks across the edge, data center, and cloud.
 - [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval) - One-for-All Multimodal Evaluation Toolkit Across Text, Image, Video, and Audio Tasks
 - [AnswerDotAI/fsdp_qlora](https://github.com/AnswerDotAI/fsdp_qlora) - Training LLMs with QLoRA + FSDP
@@ -1148,7 +1148,7 @@
 - [YS-L/csvlens](https://github.com/YS-L/csvlens) - Command line csv viewer
 - [aniketmaurya/fastserve-ai](https://github.com/aniketmaurya/fastserve-ai) - Machine Learning Serving focused on GenAI with simplicity as the top priority.
 - [zai-org/CogVLM](https://github.com/zai-org/CogVLM) - a state-of-the-art-level open visual language model | 多模态预训练模型
-- [pytorch-labs/segment-anything-fast](https://github.com/pytorch-labs/segment-anything-fast) - A batched offline inference oriented version of segment-anything
+- [meta-pytorch/segment-anything-fast](https://github.com/meta-pytorch/segment-anything-fast) - A batched offline inference oriented version of segment-anything
 - [aniketmaurya/discord-llm-bot](https://github.com/aniketmaurya/discord-llm-bot) - Fun project: LLM powered RAG Discord Bot that works seamlessly on CPU
 - [facebookresearch/MetaCLIP](https://github.com/facebookresearch/MetaCLIP) - ICLR2024 Spotlight: curation/training code, metadata, distribution and pre-trained models for MetaCLIP; CVPR 2024: MoDE: CLIP Data Experts via Clustering
 - [astral-sh/ruff-pre-commit](https://github.com/astral-sh/ruff-pre-commit) - A pre-commit hook for Ruff.
