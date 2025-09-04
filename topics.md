@@ -267,7 +267,7 @@
 
 ## atom 
 
-- [macieklamberski/feedsmith](https://github.com/macieklamberski/feedsmith) - Robust and fast parser and generator for RSS, Atom, JSON Feed, and RDF feeds, with support for Podcast, iTunes, Dublin Core, and OPML files.
+- [macieklamberski/feedsmith](https://github.com/macieklamberski/feedsmith) - Fast, all-in-one parser and generator for RSS, Atom, JSON Feed, and RDF feeds, with support for Podcast, iTunes, Dublin Core, and OPML files.
 
 ## automation 
 
