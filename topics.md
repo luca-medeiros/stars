@@ -28,6 +28,7 @@
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
 - [clojure](#clojure)
+- [cloud](#cloud)
 - [coding](#coding)
 - [computer-science](#computer-science)
 - [computer-vision](#computer-vision)
@@ -377,6 +378,15 @@
 
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 
+## cloud 
+
+- [c100k/rebootx-on-prem](https://github.com/c100k/rebootx-on-prem) - RebootX On-Prem is an open source specification for defining a custom server in order to manage on-premise runnables and dashboards in the RebootX app.
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
+- [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
+- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+- [CVCUDA/CV-CUDA](https://github.com/CVCUDA/CV-CUDA) - CV-CUDA™ is an open-source, GPU accelerated library for cloud-scale image processing and computer vision.
+
 ## coding 
 
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
@@ -389,7 +399,7 @@
 
 ## computer-vision 
 
-- [lightly-ai/lightly-train](https://github.com/lightly-ai/lightly-train) - LightlyTrain is the first PyTorch framework to pretrain computer vision models on unlabeled data for industrial applications
+- [lightly-ai/lightly-train](https://github.com/lightly-ai/lightly-train) - All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.
 - [roboflow/rf-detr](https://github.com/roboflow/rf-detr) - RF-DETR is a real-time object detection model architecture developed by Roboflow, SOTA on COCO and designed for fine-tuning.
 - [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording
 - [openfoodfacts/openfoodfacts-ai](https://github.com/openfoodfacts/openfoodfacts-ai) - This is a tracking repo for all our AI projects.  🍕 🤖🍼
@@ -512,7 +522,7 @@
 
 ## deep-learning 
 
-- [lightly-ai/lightly-train](https://github.com/lightly-ai/lightly-train) - LightlyTrain is the first PyTorch framework to pretrain computer vision models on unlabeled data for industrial applications
+- [lightly-ai/lightly-train](https://github.com/lightly-ai/lightly-train) - All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.
 - [Lightning-AI/LitServe](https://github.com/Lightning-AI/LitServe) - The easiest way to deploy agents, MCP servers, models, RAG, pipelines and more. No MLOps. No YAML.
 - [openfoodfacts/openfoodfacts-ai](https://github.com/openfoodfacts/openfoodfacts-ai) - This is a tracking repo for all our AI projects.  🍕 🤖🍼
 - [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.
@@ -885,7 +895,7 @@
 
 ## machine-learning 
 
-- [lightly-ai/lightly-train](https://github.com/lightly-ai/lightly-train) - LightlyTrain is the first PyTorch framework to pretrain computer vision models on unlabeled data for industrial applications
+- [lightly-ai/lightly-train](https://github.com/lightly-ai/lightly-train) - All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.
 - [roboflow/rf-detr](https://github.com/roboflow/rf-detr) - RF-DETR is a real-time object detection model architecture developed by Roboflow, SOTA on COCO and designed for fine-tuning.
 - [rapidsai/cuvs](https://github.com/rapidsai/cuvs) - cuVS - a library for vector search and clustering on the GPU
 - [PriorLabs/TabPFN](https://github.com/PriorLabs/TabPFN) - ⚡ TabPFN: Foundation Model for Tabular Data ⚡
@@ -1329,7 +1339,7 @@
 
 - [developmentseed/obstore](https://github.com/developmentseed/obstore) - The simplest, highest-throughput Python interface to S3, GCS & Azure Storage, powered by Rust.
 - [jaypyles/Scraperr](https://github.com/jaypyles/Scraperr) - Self-hosted webscraper.
-- [lightly-ai/lightly-train](https://github.com/lightly-ai/lightly-train) - LightlyTrain is the first PyTorch framework to pretrain computer vision models on unlabeled data for industrial applications
+- [lightly-ai/lightly-train](https://github.com/lightly-ai/lightly-train) - All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [tcgoetz/GarminDB](https://github.com/tcgoetz/GarminDB) - Download and parse data from Garmin Connect or a Garmin watch, FitBit CSV, and MS Health CSV files into and analyze data in Sqlite serverless databases with Jupyter notebooks.
@@ -1403,10 +1413,10 @@
 
 ## pytorch 
 
-- [lightly-ai/lightly-train](https://github.com/lightly-ai/lightly-train) - LightlyTrain is the first PyTorch framework to pretrain computer vision models on unlabeled data for industrial applications
+- [lightly-ai/lightly-train](https://github.com/lightly-ai/lightly-train) - All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.
 - [NVlabs/Sana](https://github.com/NVlabs/Sana) - SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer
 - [pytorch/ao](https://github.com/pytorch/ao) - PyTorch native quantization and sparsity for training and inference
-- [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and support state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-L
+- [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and support state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT L
 - [aliasgharkhani/SLiMe](https://github.com/aliasgharkhani/SLiMe) - 1-shot image segmentation using Stable Diffusion
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.
