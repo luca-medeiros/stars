@@ -9,6 +9,7 @@
 - [C#](#c#)
 - [C++](#c++)
 - [Clojure](#clojure)
+- [Cooklang](#cooklang)
 - [Cuda](#cuda)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
@@ -69,6 +70,10 @@
 ## Clojure 
 
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
+
+## Cooklang 
+
+- [nicholaswilde/recipes](https://github.com/nicholaswilde/recipes) - 🥗 My collection of recipes made with cooklang 📖
 
 ## Cuda 
 
@@ -275,7 +280,7 @@
 - [facebookresearch/chameleon](https://github.com/facebookresearch/chameleon) - Repository for Meta Chameleon, a mixed-modal early-fusion foundation model from FAIR.
 - [togethercomputer/Dragonfly](https://github.com/togethercomputer/Dragonfly) - 
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The fastest python framework and runtime for multi-agent systems.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Incredibly fast multi-agent framework, runtime and UI.
 - [NVIDIA/TensorRT-Model-Optimizer](https://github.com/NVIDIA/TensorRT-Model-Optimizer) - A unified library of state-of-the-art model optimization techniques like quantization, pruning, distillation, speculative decoding, etc. It compresses deep learning models for downstream deployment fr
 - [pydantic/logfire](https://github.com/pydantic/logfire) - Uncomplicated Observability for Python and beyond! 🪵🔥
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
@@ -489,7 +494,6 @@
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [deluan/zsh-in-docker](https://github.com/deluan/zsh-in-docker) - Install Zsh, Oh My Zsh and plugins inside a Docker container with one line!
-- [nicholaswilde/recipes](https://github.com/nicholaswilde/recipes) - 🥗 My collection of recipes made with cooklang 📖
 - [binpash/try](https://github.com/binpash/try) - Inspect a command's effects before modifying your live system
 
 ## Smarty 
@@ -521,7 +525,7 @@
 - [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording
 - [loggerhead/json4u](https://github.com/loggerhead/json4u) - 
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click in
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel) - Openpanel is an open-source web and product analytics platform that combines the power of Mixpanel with the ease of Plausible and one of the best Google Analytics replacements.
 - [RedPlanetHQ/tegon](https://github.com/RedPlanetHQ/tegon) - Tegon is an open-source, dev-first alternative to Jira, Linear
