@@ -184,7 +184,7 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [av/harbor](https://github.com/av/harbor) - Effortlessly run LLM backends, APIs, frontends, and services with one command.
 - [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording
-- [Lightning-AI/LitServe](https://github.com/Lightning-AI/LitServe) - Build your own inference engine with expert control. Deploy agents, MCP servers, models, RAG, pipelines and more. No MLOps. No YAML.
+- [Lightning-AI/LitServe](https://github.com/Lightning-AI/LitServe) - Build custom inference engines for models, agents, multi-modal systems, RAG, pipelines and more.
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click in
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
@@ -245,7 +245,7 @@
 ## api 
 
 - [scanapi/scanapi](https://github.com/scanapi/scanapi) - Automated Integration Testing and Live Documentation for your API
-- [Lightning-AI/LitServe](https://github.com/Lightning-AI/LitServe) - Build your own inference engine with expert control. Deploy agents, MCP servers, models, RAG, pipelines and more. No MLOps. No YAML.
+- [Lightning-AI/LitServe](https://github.com/Lightning-AI/LitServe) - Build custom inference engines for models, agents, multi-modal systems, RAG, pipelines and more.
 - [bitwarden/server](https://github.com/bitwarden/server) - Bitwarden infrastructure/backend (API, database, Docker, etc).
 - [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups
 - [benavlabs/FastAPI-boilerplate](https://github.com/benavlabs/FastAPI-boilerplate) - An extendable async API using FastAPI, Pydantic V2, SQLAlchemy 2.0, PostgreSQL and Redis.
@@ -255,7 +255,7 @@
 
 ## artificial-intelligence 
 
-- [Lightning-AI/LitServe](https://github.com/Lightning-AI/LitServe) - Build your own inference engine with expert control. Deploy agents, MCP servers, models, RAG, pipelines and more. No MLOps. No YAML.
+- [Lightning-AI/LitServe](https://github.com/Lightning-AI/LitServe) - Build custom inference engines for models, agents, multi-modal systems, RAG, pipelines and more.
 - [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - SoTA production-ready AI retrieval system. Agentic Retrieval-Augmented Generation (RAG) with a RESTful API.
 - [openfoodfacts/openfoodfacts-ai](https://github.com/openfoodfacts/openfoodfacts-ai) - This is a tracking repo for all our AI projects.  🍕 🤖🍼
 - [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
@@ -531,7 +531,7 @@
 ## deep-learning 
 
 - [lightly-ai/lightly-train](https://github.com/lightly-ai/lightly-train) - All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.
-- [Lightning-AI/LitServe](https://github.com/Lightning-AI/LitServe) - Build your own inference engine with expert control. Deploy agents, MCP servers, models, RAG, pipelines and more. No MLOps. No YAML.
+- [Lightning-AI/LitServe](https://github.com/Lightning-AI/LitServe) - Build custom inference engines for models, agents, multi-modal systems, RAG, pipelines and more.
 - [openfoodfacts/openfoodfacts-ai](https://github.com/openfoodfacts/openfoodfacts-ai) - This is a tracking repo for all our AI projects.  🍕 🤖🍼
 - [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.
 - [UCSC-VLAA/CLIPA](https://github.com/UCSC-VLAA/CLIPA) - [NeurIPS 2023] This repository includes the official implementation of our paper "An Inverse Scaling Law for CLIP Training"
@@ -591,7 +591,7 @@
 
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
-- [Lightning-AI/LitServe](https://github.com/Lightning-AI/LitServe) - Build your own inference engine with expert control. Deploy agents, MCP servers, models, RAG, pipelines and more. No MLOps. No YAML.
+- [Lightning-AI/LitServe](https://github.com/Lightning-AI/LitServe) - Build custom inference engines for models, agents, multi-modal systems, RAG, pipelines and more.
 - [agno-agi/agno](https://github.com/agno-agi/agno) - The multi-agent framework, runtime and UI built for speed.
 - [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
@@ -1511,7 +1511,7 @@
 ## rest-api 
 
 - [scanapi/scanapi](https://github.com/scanapi/scanapi) - Automated Integration Testing and Live Documentation for your API
-- [Lightning-AI/LitServe](https://github.com/Lightning-AI/LitServe) - Build your own inference engine with expert control. Deploy agents, MCP servers, models, RAG, pipelines and more. No MLOps. No YAML.
+- [Lightning-AI/LitServe](https://github.com/Lightning-AI/LitServe) - Build custom inference engines for models, agents, multi-modal systems, RAG, pipelines and more.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 
 ## reverse-engineering 
@@ -1739,7 +1739,7 @@
 ## web 
 
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-- [Lightning-AI/LitServe](https://github.com/Lightning-AI/LitServe) - Build your own inference engine with expert control. Deploy agents, MCP servers, models, RAG, pipelines and more. No MLOps. No YAML.
+- [Lightning-AI/LitServe](https://github.com/Lightning-AI/LitServe) - Build custom inference engines for models, agents, multi-modal systems, RAG, pipelines and more.
 - [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
 - [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
