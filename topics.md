@@ -1135,7 +1135,7 @@
 - [NVlabs/RADIO](https://github.com/NVlabs/RADIO) - Official repository for "AM-RADIO: Reduce All Domains Into One"
 - [facebookresearch/faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
 - [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) - A Datacenter Scale Distributed Inference Serving Framework
-- [prs-eth/thera](https://github.com/prs-eth/thera) - Thera: Aliasing-Free Arbitrary-Scale Super-Resolution with Neural Heat Fields
+- [prs-eth/thera](https://github.com/prs-eth/thera) - [TMLR 2025] Thera: Aliasing-Free Arbitrary-Scale Super-Resolution with Neural Heat Fields
 - [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) - 🔥 Official Firecrawl MCP Server - Adds powerful web scraping and search to Cursor, Claude and any other LLM clients.
 - [JackHopkins/factorio-learning-environment](https://github.com/JackHopkins/factorio-learning-environment) - A non-saturating, open-ended environment for evaluating LLMs in Factorio
 - [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) - The official Python SDK for Model Context Protocol servers and clients
