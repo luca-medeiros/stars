@@ -31,6 +31,7 @@
 - [clojure](#clojure)
 - [cloud](#cloud)
 - [coding](#coding)
+- [command-line](#command-line)
 - [computer-science](#computer-science)
 - [computer-vision](#computer-vision)
 - [config](#config)
@@ -403,6 +404,11 @@
 ## coding 
 
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+
+## command-line 
+
+- [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
+- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 
 ## computer-science 
 
@@ -1128,6 +1134,7 @@
 
 ## others 
 
+- [autodistill/autodistill-sam3](https://github.com/autodistill/autodistill-sam3) - Use Segment Anything 3 to label data for use with Autodistill.
 - [microsoft/typeagent-py](https://github.com/microsoft/typeagent-py) - Python port of part of the TypeAgent repo
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [MinishLab/semhash](https://github.com/MinishLab/semhash) - Fast Semantic Text Deduplication & Filtering
