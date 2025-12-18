@@ -164,6 +164,7 @@
 - [testing](#testing)
 - [text-to-speech](#text-to-speech)
 - [trading](#trading)
+- [tui](#tui)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
 - [ui](#ui)
@@ -1158,6 +1159,7 @@
 
 ## others 
 
+- [Gricha/macro-photo](https://github.com/Gricha/macro-photo) - An experiment where I ran Claude Code to "improve codebase quality" over 200 times.
 - [autodistill/autodistill-sam3](https://github.com/autodistill/autodistill-sam3) - Use Segment Anything 3 to label data for use with Autodistill.
 - [microsoft/typeagent-py](https://github.com/microsoft/typeagent-py) - Structured RAG: ingest, index, query
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
@@ -1763,6 +1765,11 @@
 ## trading 
 
 - [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
+
+## tui 
+
+- [Textualize/toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
+- [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 
 ## typescript 
 
