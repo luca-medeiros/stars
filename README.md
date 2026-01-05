@@ -296,7 +296,7 @@
 - [15r10nk/inline-snapshot](https://github.com/15r10nk/inline-snapshot) - inline-snapshot boosts efficiency when writing tests by generating code with the expected values and simplifies snapshot tests with pytest.
 - [facebookresearch/schedule_free](https://github.com/facebookresearch/schedule_free) - Schedule-Free Optimization in PyTorch
 - [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]
-- [dvlab-research/MGM](https://github.com/dvlab-research/MGM) - Official repo for "Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models"
+- [JIA-Lab-research/MGM](https://github.com/JIA-Lab-research/MGM) - Official repo for "Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models"
 - [hammoudhasan/SynthCLIP](https://github.com/hammoudhasan/SynthCLIP) - Code base of SynthCLIP: CLIP training with purely synthetic text-image pairs from LLMs and TTIs.
 - [instructkr/LogicKor](https://github.com/instructkr/LogicKor) - 한국어 언어모델 다분야 사고력 벤치마크
 - [facebookresearch/DCI](https://github.com/facebookresearch/DCI) - Densely Captioned Images (DCI) dataset repository.
