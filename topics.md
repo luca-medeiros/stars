@@ -1187,13 +1187,14 @@
 
 ## others 
 
+- [punkpeye/pipenet](https://github.com/punkpeye/pipenet) - Expose your local server to the public internet instantly
 - [jamjamjon/usls](https://github.com/jamjamjon/usls) - A Rust library integrated with ONNXRuntime, providing a collection of Computer Vison and Vision-Language models such as YOLO, FastVLM, and more.
 - [facebookresearch/sam3](https://github.com/facebookresearch/sam3) - The repository provides code for running inference and finetuning with the Meta Segment Anything Model 3 (SAM 3), links for downloading the trained model checkpoints, and example notebooks that show h
 - [gricha/macro-photo](https://github.com/gricha/macro-photo) - An experiment where I ran Claude Code to "improve codebase quality" over 200 times.
 - [autodistill/autodistill-sam3](https://github.com/autodistill/autodistill-sam3) - Use Segment Anything 3 to label data for use with Autodistill.
 - [microsoft/typeagent-py](https://github.com/microsoft/typeagent-py) - Structured RAG: ingest, index, query
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
-- [MinishLab/semhash](https://github.com/MinishLab/semhash) - Fast Semantic Text Deduplication & Filtering
+- [MinishLab/semhash](https://github.com/MinishLab/semhash) - Fast Multimodal Semantic Deduplication & Filtering
 - [Pringled/pyversity](https://github.com/Pringled/pyversity) - Fast Diversification for Search & Retrieval
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 - [neural-maze/agent-api-cookiecutter](https://github.com/neural-maze/agent-api-cookiecutter) - A ready-to-go template for building powerful Agent APIs
