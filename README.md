@@ -224,6 +224,7 @@
 
 ## Python 
 
+- [zai-org/GLM-OCR](https://github.com/zai-org/GLM-OCR) - GLM-OCR: Accurate ×  Fast × Comprehensive
 - [facebookresearch/sam3](https://github.com/facebookresearch/sam3) - The repository provides code for running inference and finetuning with the Meta Segment Anything Model 3 (SAM 3), links for downloading the trained model checkpoints, and example notebooks that show h
 - [autodistill/autodistill-sam3](https://github.com/autodistill/autodistill-sam3) - Use Segment Anything 3 to label data for use with Autodistill.
 - [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) - The absolute trainer to light up AI agents.
