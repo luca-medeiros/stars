@@ -388,7 +388,6 @@
 - [mlfoundations/wise-ft](https://github.com/mlfoundations/wise-ft) - Robust fine-tuning of zero-shot models
 - [Blosc/python-blosc2](https://github.com/Blosc/python-blosc2) - A high-performance library for compressed ndarrays, with a flexible computational engine
 - [colesbury/nogil](https://github.com/colesbury/nogil) - Multithreaded Python without the GIL
-- [lucidrains/lion-pytorch](https://github.com/lucidrains/lion-pytorch) - 🦁 Lion, new optimizer discovered by Google Brain using genetic algorithms that is purportedly better than Adam(w), in Pytorch
 - [mosaicml/composer](https://github.com/mosaicml/composer) - Supercharge Your Model Training
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [ContinualAI/avalanche](https://github.com/ContinualAI/avalanche) - Avalanche: an End-to-End Library for Continual Learning based on PyTorch.
@@ -432,7 +431,6 @@
 - [NVlabs/eg3d](https://github.com/NVlabs/eg3d) - 
 - [memesoo99/GGDS-AI-Powered-Scalable-Vineyard-Management-Application](https://github.com/memesoo99/GGDS-AI-Powered-Scalable-Vineyard-Management-Application) - quality control software for grape farms that consists drone autonomous driving, object detection, object tracking and object segmentation from a drone footage.
 - [visual-layer/fastdup](https://github.com/visual-layer/fastdup) - fastdup is a powerful, free tool designed to rapidly generate valuable insights from image and video datasets. It helps enhance the quality of both images and labels, while significantly reducing data
-- [lucidrains/x-clip](https://github.com/lucidrains/x-clip) - A concise but complete implementation of CLIP with various experimental improvements from recent papers
 - [rom1504/img2dataset](https://github.com/rom1504/img2dataset) - Easily turn large sets of image urls to an image dataset. Can download, resize and package 100M urls in 20h on one machine.
 - [klory/CookGAN](https://github.com/klory/CookGAN) - This is the official repository for CookGAN: Meal Image Synthesis from Ingredients
 - [nebuly-ai/optimate](https://github.com/nebuly-ai/optimate) - A collection of libraries to optimise AI model performances
