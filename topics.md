@@ -176,6 +176,7 @@
 - [visualization](#visualization)
 - [vue](#vue)
 - [web](#web)
+- [web-development](#web-development)
 - [webapp](#webapp)
 - [website](#website)
 - [windows](#windows)
@@ -290,12 +291,10 @@
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [facebookresearch/fairseq](https://github.com/facebookresearch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
-- [lucidrains/lion-pytorch](https://github.com/lucidrains/lion-pytorch) - 🦁 Lion, new optimizer discovered by Google Brain using genetic algorithms that is purportedly better than Adam(w), in Pytorch
 - [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 Build, run, and manage data pipelines for integrating and transforming data.
 - [louisfb01/best_AI_papers_2022](https://github.com/louisfb01/best_AI_papers_2022) - A curated list of the latest breakthroughs in AI (in 2022) by release date with a clear video explanation, link to a more in-depth article, and code.
 - [kennethleungty/Failed-ML](https://github.com/kennethleungty/Failed-ML) - Compilation of high-profile real-world examples of failed machine learning projects
 - [BAILOOL/DoYouEvenLearn](https://github.com/BAILOOL/DoYouEvenLearn) - Essential Guide to keep up with AI/ML/DL/CV
-- [lucidrains/x-clip](https://github.com/lucidrains/x-clip) - A concise but complete implementation of CLIP with various experimental improvements from recent papers
 - [nebuly-ai/optimate](https://github.com/nebuly-ai/optimate) - A collection of libraries to optimise AI model performances
 - [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes.
 - [kornia/kornia](https://github.com/kornia/kornia) - 🐍 Geometric Computer Vision Library for Spatial AI
@@ -577,7 +576,6 @@
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [mlfoundations/open_clip](https://github.com/mlfoundations/open_clip) - An open source implementation of CLIP.
 - [docarray/docarray](https://github.com/docarray/docarray) - Represent, send, store and search multimodal data
-- [lucidrains/lion-pytorch](https://github.com/lucidrains/lion-pytorch) - 🦁 Lion, new optimizer discovered by Google Brain using genetic algorithms that is purportedly better than Adam(w), in Pytorch
 - [mosaicml/composer](https://github.com/mosaicml/composer) - Supercharge Your Model Training
 - [NVIDIA/DALI](https://github.com/NVIDIA/DALI) - A GPU-accelerated library containing highly optimized building blocks and an execution engine for data processing to accelerate deep learning training and inference applications.
 - [ContinualAI/avalanche](https://github.com/ContinualAI/avalanche) - Avalanche: an End-to-End Library for Continual Learning based on PyTorch.
@@ -599,7 +597,6 @@
 - [xuebinqin/DIS](https://github.com/xuebinqin/DIS) - This is the repo for our new project Highly Accurate Dichotomous Image Segmentation
 - [qdrant/quaterion](https://github.com/qdrant/quaterion) - Blazing fast framework for fine-tuning similarity learning models
 - [visual-layer/fastdup](https://github.com/visual-layer/fastdup) - fastdup is a powerful, free tool designed to rapidly generate valuable insights from image and video datasets. It helps enhance the quality of both images and labels, while significantly reducing data
-- [lucidrains/x-clip](https://github.com/lucidrains/x-clip) - A concise but complete implementation of CLIP with various experimental improvements from recent papers
 - [rom1504/img2dataset](https://github.com/rom1504/img2dataset) - Easily turn large sets of image urls to an image dataset. Can download, resize and package 100M urls in 20h on one machine.
 - [cmhungsteve/Awesome-Transformer-Attention](https://github.com/cmhungsteve/Awesome-Transformer-Attention) - An ultimately comprehensive paper list of Vision Transformer/Attention, including papers, codes, and related websites
 - [openai/CLIP](https://github.com/openai/CLIP) - CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image
@@ -1865,6 +1862,10 @@
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
+
+## web-development 
+
+- [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Development at the speed of light
 
 ## webapp 
 
