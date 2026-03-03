@@ -255,7 +255,7 @@
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [datalab-to/marker](https://github.com/datalab-to/marker) - Convert PDF to markdown + JSON quickly with high accuracy
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
-- [Zipstack/unstract](https://github.com/Zipstack/unstract) - No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents
+- [Zipstack/unstract](https://github.com/Zipstack/unstract) - LLM-Driven Extraction of Unstructured Data — Built for API Deployments & ETL Pipeline Workflows
 - [MadcowD/ell](https://github.com/MadcowD/ell) - A language model programming library.
 - [YiyangZhou/CSR](https://github.com/YiyangZhou/CSR) - [NeurIPS 2024] Calibrated Self-Rewarding Vision Language Models
 - [simplescaling/s1](https://github.com/simplescaling/s1) - s1: Simple test-time scaling
