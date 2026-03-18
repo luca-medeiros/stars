@@ -161,6 +161,7 @@
 - [stable-diffusion](#stable-diffusion)
 - [statistics](#statistics)
 - [svelte](#svelte)
+- [swift](#swift)
 - [tailwind](#tailwind)
 - [tailwindcss](#tailwindcss)
 - [tensorflow](#tensorflow)
@@ -481,6 +482,7 @@
 
 ## cpp 
 
+- [ashvardanian/NumKong](https://github.com/ashvardanian/NumKong) - SIMD-accelerated distances, dot products, matrix ops, geospatial & geometric kernels for 16 numeric types — from 6-bit floats to 64-bit complex — across x86, Arm, RISC-V, and WASM, with bindings for P
 - [CVCUDA/CV-CUDA](https://github.com/CVCUDA/CV-CUDA) - CV-CUDA™ is an open-source, GPU accelerated library for cloud-scale image processing and computer vision.
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [flashlight/flashlight](https://github.com/flashlight/flashlight) - A C++ standalone library for machine learning
@@ -794,6 +796,7 @@
 ## golang 
 
 - [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab) - High-performance browser automation bridge and multi-instance orchestrator with advanced stealth injection and real-time dashboard.
+- [ashvardanian/NumKong](https://github.com/ashvardanian/NumKong) - SIMD-accelerated distances, dot products, matrix ops, geospatial & geometric kernels for 16 numeric types — from 6-bit floats to 64-bit complex — across x86, Arm, RISC-V, and WASM, with bindings for P
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 Run Background Tasks at Scale
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
@@ -892,6 +895,7 @@
 
 ## javascript 
 
+- [ashvardanian/NumKong](https://github.com/ashvardanian/NumKong) - SIMD-accelerated distances, dot products, matrix ops, geospatial & geometric kernels for 16 numeric types — from 6-bit floats to 64-bit complex — across x86, Arm, RISC-V, and WASM, with bindings for P
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
@@ -1151,7 +1155,7 @@
 
 ## numpy 
 
-- [ashvardanian/SimSIMD](https://github.com/ashvardanian/SimSIMD) - Up to 200x Faster Dot Products & Similarity Metrics — for Python, Rust, C, JS, and Swift, supporting f64, f32, f16 real & complex, i8, and bit vectors using SIMD for both AVX2, AVX-512, NEON, SVE, & S
+- [ashvardanian/NumKong](https://github.com/ashvardanian/NumKong) - SIMD-accelerated distances, dot products, matrix ops, geospatial & geometric kernels for 16 numeric types — from 6-bit floats to 64-bit complex — across x86, Arm, RISC-V, and WASM, with bindings for P
 - [cowana-ai/feature-fabrica](https://github.com/cowana-ai/feature-fabrica) - Open-source Python library designed to improve engineering practices and transparency in feature engineering.
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
 
@@ -1664,6 +1668,7 @@
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
 - [developmentseed/obstore](https://github.com/developmentseed/obstore) - The simplest, highest-throughput Python interface to S3, GCS & Azure Storage, powered by Rust.
 - [XiangpengHao/parquet-viewer](https://github.com/XiangpengHao/parquet-viewer) - View parquet files online
+- [ashvardanian/NumKong](https://github.com/ashvardanian/NumKong) - SIMD-accelerated distances, dot products, matrix ops, geospatial & geometric kernels for 16 numeric types — from 6-bit floats to 64-bit complex — across x86, Arm, RISC-V, and WASM, with bindings for P
 - [StarlightSearch/EmbedAnything](https://github.com/StarlightSearch/EmbedAnything) - Highly Performant, Modular, Memory Safe and Production-ready Inference, Ingestion and Indexing built in Rust 🦀
 - [mattrighetti/envelope](https://github.com/mattrighetti/envelope) - An environment variables cli tool backed by SQLite
 - [frectonz/sql-studio](https://github.com/frectonz/sql-studio) - SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, ClickHouse, DuckDB, Microsoft SQL Server]
@@ -1786,6 +1791,10 @@
 - [OvidijusParsiunas/deep-chat](https://github.com/OvidijusParsiunas/deep-chat) - Fully customizable AI chatbot component for your website
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
+
+## swift 
+
+- [ashvardanian/NumKong](https://github.com/ashvardanian/NumKong) - SIMD-accelerated distances, dot products, matrix ops, geospatial & geometric kernels for 16 numeric types — from 6-bit floats to 64-bit complex — across x86, Arm, RISC-V, and WASM, with bindings for P
 
 ## tailwind 
 
