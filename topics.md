@@ -54,6 +54,7 @@
 - [developer-tools](#developer-tools)
 - [development](#development)
 - [devops](#devops)
+- [distributed-systems](#distributed-systems)
 - [django](#django)
 - [docker](#docker)
 - [documentation](#documentation)
@@ -662,6 +663,10 @@
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 
+## distributed-systems 
+
+- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 Run Background Tasks at Scale
+
 ## django 
 
 - [joerick/pyinstrument](https://github.com/joerick/pyinstrument) - 🚴 Call stack profiler for Python. Shows you why your code is slow!
@@ -957,7 +962,7 @@
 - [rapidsai/cuvs](https://github.com/rapidsai/cuvs) - cuVS - a library for vector search and clustering on the GPU
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [AnswerDotAI/ModernBERT](https://github.com/AnswerDotAI/ModernBERT) - Bringing BERT into modernity via both architecture changes and scaling
-- [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - GenAI Agent Framework, the Pydantic way
+- [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - AI Agent Framework, the Pydantic way
 - [av/harbor](https://github.com/av/harbor) - One command brings a complete pre-wired LLM stack with hundreds of services to explore.
 - [DongjunLee/langdict](https://github.com/DongjunLee/langdict) - Build complex LLM Applications with Python Dictionary
 - [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - run agents that work for you in the background based on what you do
@@ -1218,7 +1223,6 @@
 - [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically
 - [vercel-labs/skills](https://github.com/vercel-labs/skills) - The open agent skills tool - npx skills
 - [zai-org/GLM-OCR](https://github.com/zai-org/GLM-OCR) - GLM-OCR: Accurate ×  Fast × Comprehensive
-- [punkpeye/pipenet](https://github.com/punkpeye/pipenet) - Expose your local server to the public internet instantly
 - [jamjamjon/usls](https://github.com/jamjamjon/usls) - A Rust library integrated with ONNXRuntime, providing a collection of Computer Vison and Vision-Language models such as YOLO, FastVLM, and more.
 - [facebookresearch/sam3](https://github.com/facebookresearch/sam3) - The repository provides code for running inference and finetuning with the Meta Segment Anything Model 3 (SAM 3), links for downloading the trained model checkpoints, and example notebooks that show h
 - [gricha/macro-photo](https://github.com/gricha/macro-photo) - An experiment where I ran Claude Code to "improve codebase quality" over 200 times.
@@ -1479,7 +1483,7 @@
 - [tcgoetz/GarminDB](https://github.com/tcgoetz/GarminDB) - Download and parse data from Garmin Connect or a Garmin watch, FitBit CSV, and MS Health CSV files into and analyze data in Sqlite serverless databases with Jupyter notebooks.
 - [pyper-dev/pyper](https://github.com/pyper-dev/pyper) - Concurrent Python made simple
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-- [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - GenAI Agent Framework, the Pydantic way
+- [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - AI Agent Framework, the Pydantic way
 - [DongjunLee/langdict](https://github.com/DongjunLee/langdict) - Build complex LLM Applications with Python Dictionary
 - [StarlightSearch/EmbedAnything](https://github.com/StarlightSearch/EmbedAnything) - Highly Performant, Modular, Memory Safe and Production-ready Inference, Ingestion and Indexing built in Rust 🦀
 - [jacobmarks/image-quality-issues](https://github.com/jacobmarks/image-quality-issues) - FiftyOne Plugin for finding common image quality issues
