@@ -1316,7 +1316,7 @@
 - [xzz2/pa-sam](https://github.com/xzz2/pa-sam) - PA-SAM: Prompt Adapter SAM for High-quality Image Segmentation
 - [LargeWorldModel/LWM](https://github.com/LargeWorldModel/LWM) - Large World Model -- Modeling Text and Video with Millions Context
 - [PKU-YuanGroup/MoE-LLaVA](https://github.com/PKU-YuanGroup/MoE-LLaVA) - 【TMM 2025🔥】 Mixture-of-Experts for Large Vision-Language Models
-- [vikhyat/moondream](https://github.com/vikhyat/moondream) - tiny vision language model
+- [m87-labs/moondream](https://github.com/m87-labs/moondream) - tiny vision language model
 - [huggingface/datatrove](https://github.com/huggingface/datatrove) - Freeing data processing from scripting madness by providing a set of platform-agnostic customizable pipeline processing blocks.
 - [ttscoff/curlyq](https://github.com/ttscoff/curlyq) - 
 - [YS-L/csvlens](https://github.com/YS-L/csvlens) - Command line csv viewer
