@@ -1229,6 +1229,7 @@
 
 ## others 
 
+- [idolaman/galactic](https://github.com/idolaman/galactic) - The command center to ship 10x faster with a parallel Claude Code fleet, featuring isolated Git Worktrees and zero-conflict networking.
 - [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Create beautiful slides on the web using Claude's frontend skills
 - [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically
 - [vercel-labs/skills](https://github.com/vercel-labs/skills) - The open agent skills tool - npx skills
@@ -1288,7 +1289,7 @@
 - [xiaogdgenuine/Doll](https://github.com/xiaogdgenuine/Doll) - A mac app to help monitor your app badges!
 - [facebookresearch/sapiens](https://github.com/facebookresearch/sapiens) - High-resolution models for human tasks.
 - [amazon-science/QA-ViT](https://github.com/amazon-science/QA-ViT) - 
-- [llamastack/llama-stack-apps](https://github.com/llamastack/llama-stack-apps) - Agentic components of the Llama Stack APIs
+- [ogx-ai/llama-stack-apps](https://github.com/ogx-ai/llama-stack-apps) - Agentic components of the Llama Stack APIs
 - [microsoft/MInference](https://github.com/microsoft/MInference) - [NeurIPS'24 Spotlight, ICLR'25, ICML'25] To speed up Long-context LLMs' inference, approximate and dynamic sparse calculate the attention, which reduces inference latency by up to 10x for pre-filling 
 - [apple/ml-4m](https://github.com/apple/ml-4m) - 4M: Massively Multimodal Masked Modeling
 - [apple/ml-mobileclip](https://github.com/apple/ml-mobileclip) - This repository contains the official implementation of the research papers, "MobileCLIP" CVPR 2024 and "MobileCLIP2" TMLR August 2025
