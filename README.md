@@ -53,6 +53,7 @@
 
 ## C++ 
 
+- [ionutdecebal/rsvpnano](https://github.com/ionutdecebal/rsvpnano) - 
 - [facebookresearch/faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
 - [unum-cloud/USearch](https://github.com/unum-cloud/USearch) - Fast Open-Source Search & Clustering engine × for Vectors & Arbitrary Objects × in C++, C, Python, JavaScript, Rust, Java, Objective-C, Swift, C#, GoLang, and Wolfram 🔍
 - [relativty/Relativty](https://github.com/relativty/Relativty) - An open source VR headset with SteamVR supports for $200
@@ -390,7 +391,7 @@
 - [docarray/docarray](https://github.com/docarray/docarray) - Represent, send, store and search multimodal data
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [mlfoundations/wise-ft](https://github.com/mlfoundations/wise-ft) - Robust fine-tuning of zero-shot models
-- [Blosc/python-blosc2](https://github.com/Blosc/python-blosc2) - A high-performance library for compressed ndarrays, with a flexible computational engine
+- [Blosc/python-blosc2](https://github.com/Blosc/python-blosc2) - A high-performance library for compressed ND arrays and columnar tables, with compute and indexing engines
 - [colesbury/nogil](https://github.com/colesbury/nogil) - Multithreaded Python without the GIL
 - [lucidrains/lion-pytorch](https://github.com/lucidrains/lion-pytorch) - 🦁 Lion, new optimizer discovered by Google Brain using genetic algorithms that is purportedly better than Adam(w), in Pytorch
 - [mosaicml/composer](https://github.com/mosaicml/composer) - Supercharge Your Model Training
@@ -427,7 +428,7 @@
 - [Westlake-AI/openmixup](https://github.com/Westlake-AI/openmixup) - CAIRI Supervised, Semi- and Self-Supervised Visual Representation Learning Toolbox and Benchmark
 - [kakaobrain/nerf-factory](https://github.com/kakaobrain/nerf-factory) - An awesome PyTorch NeRF library
 - [kakaobrain/coyo-dataset](https://github.com/kakaobrain/coyo-dataset) - COYO-700M: Large-scale Image-Text Pair Dataset
-- [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
+- [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Computer Vision Annotation Tool (CVAT) is a leading platform for building high-quality visual datasets for vision AI. It offers open-source, cloud, and enterprise products, as well as labeling service
 - [google-research/multinerf](https://github.com/google-research/multinerf) - A Code Release for Mip-NeRF 360, Ref-NeRF, and RawNeRF
 - [Lightning-Universe/lightning-bolts](https://github.com/Lightning-Universe/lightning-bolts) - Toolbox of models, callbacks, and datasets for AI/ML researchers.
 - [qdrant/quaterion](https://github.com/qdrant/quaterion) - Blazing fast framework for fine-tuning similarity learning models
