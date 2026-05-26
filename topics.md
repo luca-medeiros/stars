@@ -1287,7 +1287,7 @@
 - [simplescaling/s1](https://github.com/simplescaling/s1) - s1: Simple test-time scaling
 - [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents that think in code.
 - [soGeneri/awesome-launch](https://github.com/soGeneri/awesome-launch) - A curated directory of free and friendly communities to showcase your side projects!
-- [NVIDIA/Cosmos](https://github.com/NVIDIA/Cosmos) - New repo collection for NVIDIA Cosmos: https://github.com/nvidia-cosmos
+- [NVIDIA/cosmos](https://github.com/NVIDIA/cosmos) - New repo collection for NVIDIA Cosmos: https://github.com/nvidia-cosmos
 - [zjysteven/lmms-finetune](https://github.com/zjysteven/lmms-finetune) - A minimal codebase for finetuning large multimodal models, supporting llava-1.5/1.6, llava-interleave, llava-next-video, llava-onevision, llama-3.2-vision, qwen-vl, qwen2-vl, phi3-v etc.
 - [FrancescoSaverioZuppichini/python-template](https://github.com/FrancescoSaverioZuppichini/python-template) - 
 - [microsoft/LLM2CLIP](https://github.com/microsoft/LLM2CLIP) - LLM2CLIP significantly improves already state-of-the-art CLIP models.
