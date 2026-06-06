@@ -462,7 +462,7 @@
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [albumentations-team/autoalbument](https://github.com/albumentations-team/autoalbument) - AutoML for image augmentation. AutoAlbument uses the Faster AutoAugment algorithm to find optimal augmentation policies. Documentation - https://albumentations.ai/docs/autoalbument/
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
-- [NuviLabs/AGC-Nuvi_RecycleNet](https://github.com/NuviLabs/AGC-Nuvi_RecycleNet) - Effective trash detection model.
+- [NuviLabs-Archive/AGC-Nuvi_RecycleNet](https://github.com/NuviLabs-Archive/AGC-Nuvi_RecycleNet) - Effective trash detection model.
 - [BloodAxe/pytorch-toolbelt](https://github.com/BloodAxe/pytorch-toolbelt) - PyTorch extensions for fast R&D prototyping and Kaggle farming
 - [kritiksoman/GIMP-ML](https://github.com/kritiksoman/GIMP-ML) - AI for GNU Image Manipulation Program
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
