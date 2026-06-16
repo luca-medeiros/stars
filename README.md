@@ -343,7 +343,6 @@
 - [aliasgharkhani/SLiMe](https://github.com/aliasgharkhani/SLiMe) - 1-shot image segmentation using Stable Diffusion
 - [kaist-ami/TextManiA](https://github.com/kaist-ami/TextManiA) - [ICCV’23] Official repository for "TextManiA: Enriching Visual Feature by Text-driven Manifold Augmentation"
 - [mckinsey/vizro](https://github.com/mckinsey/vizro) - Vizro is a low-code toolkit for building high-quality data visualization apps.
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
 - [ej0cl6/deep-active-learning](https://github.com/ej0cl6/deep-active-learning) - Deep Active Learning
 - [amazon-science/prompt-pretraining](https://github.com/amazon-science/prompt-pretraining) - Official implementation for the paper "Prompt Pre-Training with Over Twenty-Thousand Classes for Open-Vocabulary Visual Recognition"
 - [QwenLM/Qwen-VL](https://github.com/QwenLM/Qwen-VL) - The official repo of Qwen-VL (通义千问-VL) chat & pretrained large vision language model proposed by Alibaba Cloud.
@@ -501,6 +500,7 @@
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [YS-L/csvlens](https://github.com/YS-L/csvlens) - Command line csv viewer
 - [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
 - [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
 - [safetensors/safetensors](https://github.com/safetensors/safetensors) - Simple, safe way to store and distribute tensors
