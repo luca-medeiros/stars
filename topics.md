@@ -1438,7 +1438,6 @@
 - [facebookresearch/dino](https://github.com/facebookresearch/dino) - PyTorch code for Vision Transformers training with the Self-Supervised learning method DINO
 - [clovaai/rainbow-memory](https://github.com/clovaai/rainbow-memory) - Official pytorch implementation of Rainbow Memory (CVPR 2021)
 - [aim-uofa/AdelaiDet](https://github.com/aim-uofa/AdelaiDet) - AdelaiDet is an open source toolbox for multiple instance-level detection and recognition tasks.
-- [NuviLabs-Archive/AGC-Nuvi_RecycleNet](https://github.com/NuviLabs-Archive/AGC-Nuvi_RecycleNet) - Effective trash detection model.
 
 ## p2p 
 
