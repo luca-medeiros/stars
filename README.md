@@ -97,7 +97,7 @@
 - [nilsherzig/LLocalSearch](https://github.com/nilsherzig/LLocalSearch) - LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress o
 - [c100k/rebootx-on-prem](https://github.com/c100k/rebootx-on-prem) - RebootX On-Prem is an open source specification for defining a custom server in order to manage on-premise runnables and dashboards in the RebootX app.
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 An orchestration engine for background tasks, AI agents, and durable workflows
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
@@ -490,7 +490,7 @@
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Development at the speed of light
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Record how you work and turn that into agents. Local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Record your screen 24/7 and plug into your agents. Local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps
 - [StarlightSearch/EmbedAnything](https://github.com/StarlightSearch/EmbedAnything) - Highly Performant, Modular, Memory Safe and Production-ready Inference, Ingestion and Indexing built in Rust 🦀
 - [mattrighetti/envelope](https://github.com/mattrighetti/envelope) - An environment variables cli tool backed by SQLite
 - [frectonz/sql-studio](https://github.com/frectonz/sql-studio) - SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, ClickHouse, DuckDB, Microsoft SQL Server]
