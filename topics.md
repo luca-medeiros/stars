@@ -500,6 +500,7 @@
 - [mlfoundations/open_clip](https://github.com/mlfoundations/open_clip) - An open source implementation of CLIP.
 - [louisfb01/best_AI_papers_2022](https://github.com/louisfb01/best_AI_papers_2022) - A curated list of the latest breakthroughs in AI (in 2022) by release date with a clear video explanation, link to a more in-depth article, and code.
 - [CVCUDA/CV-CUDA](https://github.com/CVCUDA/CV-CUDA) - CV-CUDA™ is an open-source, GPU accelerated library for cloud-scale image processing and computer vision.
+- [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - Ultralytics YOLOv5 in PyTorch for object detection, instance segmentation, classification, training, and export.
 - [Unity-Technologies/com.unity.perception](https://github.com/Unity-Technologies/com.unity.perception) - Perception toolkit for sim2real training and validation in Unity
 - [poloclub/diffusiondb](https://github.com/poloclub/diffusiondb) - A large-scale text-to-image prompt gallery dataset based on Stable Diffusion
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
@@ -635,7 +636,7 @@
 - [run-ai/genv](https://github.com/run-ai/genv) - GPU environment and cluster management with LLM support
 - [louisfb01/best_AI_papers_2022](https://github.com/louisfb01/best_AI_papers_2022) - A curated list of the latest breakthroughs in AI (in 2022) by release date with a clear video explanation, link to a more in-depth article, and code.
 - [HuaizhengZhang/Active-Learning-as-a-Service](https://github.com/HuaizhengZhang/Active-Learning-as-a-Service) - A scalable & efficient active learning/data selection system for everyone.
-- [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - Ultralytics YOLOv5 in PyTorch &gt; ONNX &gt; CoreML &gt; TFLite
+- [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - Ultralytics YOLOv5 in PyTorch for object detection, instance segmentation, classification, training, and export.
 - [alibaba/AliceMind](https://github.com/alibaba/AliceMind) - ALIbaba's Collection of Encoder-decoders from MinD (Machine IntelligeNce of Damo) Lab
 - [Unity-Technologies/com.unity.perception](https://github.com/Unity-Technologies/com.unity.perception) - Perception toolkit for sim2real training and validation in Unity
 - [grok-ai/nn-template](https://github.com/grok-ai/nn-template) - Generic template to bootstrap your PyTorch project.
@@ -936,7 +937,6 @@
 ## ios 
 
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-- [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - Ultralytics YOLOv5 in PyTorch &gt; ONNX &gt; CoreML &gt; TFLite
 
 ## java 
 
@@ -1070,7 +1070,6 @@
 - [louisfb01/best_AI_papers_2022](https://github.com/louisfb01/best_AI_papers_2022) - A curated list of the latest breakthroughs in AI (in 2022) by release date with a clear video explanation, link to a more in-depth article, and code.
 - [CVCUDA/CV-CUDA](https://github.com/CVCUDA/CV-CUDA) - CV-CUDA™ is an open-source, GPU accelerated library for cloud-scale image processing and computer vision.
 - [HuaizhengZhang/Active-Learning-as-a-Service](https://github.com/HuaizhengZhang/Active-Learning-as-a-Service) - A scalable & efficient active learning/data selection system for everyone.
-- [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - Ultralytics YOLOv5 in PyTorch &gt; ONNX &gt; CoreML &gt; TFLite
 - [Unity-Technologies/com.unity.perception](https://github.com/Unity-Technologies/com.unity.perception) - Perception toolkit for sim2real training and validation in Unity
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
 - [kennethleungty/Failed-ML](https://github.com/kennethleungty/Failed-ML) - Compilation of high-profile real-world examples of failed machine learning projects
@@ -1267,6 +1266,7 @@
 
 ## others 
 
+- [HKUDS/OpenSpace](https://github.com/HKUDS/OpenSpace) - "OpenSpace: The Quality-First Skill Hub for AI Agents" -- https://open-space.cloud/
 - [0-AI-UG/cate](https://github.com/0-AI-UG/cate) - An infinite zoomable canvas for coding. Editor, terminal, and browser panels in a spatial workspace.
 - [ionutdecebal/rsvpnano](https://github.com/ionutdecebal/rsvpnano) - 
 - [tiangolo/library-skills](https://github.com/tiangolo/library-skills) - Library Agent Skills
@@ -1623,7 +1623,7 @@
 - [ContinualAI/avalanche](https://github.com/ContinualAI/avalanche) - Avalanche: an End-to-End Library for Continual Learning based on PyTorch.
 - [stochasticai/x-stable-diffusion](https://github.com/stochasticai/x-stable-diffusion) - Real-time inference for Stable Diffusion - 0.88s latency. Covers AITemplate, nvFuser, TensorRT, FlashAttention. Join our Discord communty: https://discord.com/invite/TgHXuSJEk6
 - [HuaizhengZhang/Active-Learning-as-a-Service](https://github.com/HuaizhengZhang/Active-Learning-as-a-Service) - A scalable & efficient active learning/data selection system for everyone.
-- [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - Ultralytics YOLOv5 in PyTorch &gt; ONNX &gt; CoreML &gt; TFLite
+- [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - Ultralytics YOLOv5 in PyTorch for object detection, instance segmentation, classification, training, and export.
 - [grok-ai/nn-template](https://github.com/grok-ai/nn-template) - Generic template to bootstrap your PyTorch project.
 - [Atcold/NYU-DLSP20](https://github.com/Atcold/NYU-DLSP20) - NYU Deep Learning Spring 2020
 - [ashleve/lightning-hydra-template](https://github.com/ashleve/lightning-hydra-template) - PyTorch Lightning + Hydra. A very user-friendly template for ML experimentation.  ⚡🔥⚡
