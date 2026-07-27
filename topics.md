@@ -1266,7 +1266,7 @@
 
 ## others 
 
-- [HKUDS/OpenSpace](https://github.com/HKUDS/OpenSpace) - "OpenSpace: The Quality-First Skill Hub for AI Agents" -- https://open-space.cloud/
+- [HKUDS/OpenSpace](https://github.com/HKUDS/OpenSpace) - "OpenSpace: The Skill Management Layer for AI Agents" -- https://open-space.cloud/
 - [0-AI-UG/cate](https://github.com/0-AI-UG/cate) - An infinite zoomable canvas for coding. Editor, terminal, and browser panels in a spatial workspace.
 - [ionutdecebal/rsvpnano](https://github.com/ionutdecebal/rsvpnano) - 
 - [tiangolo/library-skills](https://github.com/tiangolo/library-skills) - Library Agent Skills
