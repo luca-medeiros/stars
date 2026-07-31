@@ -558,6 +558,7 @@
 
 ## data-analysis 
 
+- [reflex-dev/xy](https://github.com/reflex-dev/xy) - Ultra-fast and customizable Python charts
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [ml-tooling/ml-workspace](https://github.com/ml-tooling/ml-workspace) - 🛠 All-in-one web-based IDE specialized for machine learning and data science.
@@ -575,6 +576,7 @@
 
 ## data-science 
 
+- [reflex-dev/xy](https://github.com/reflex-dev/xy) - Ultra-fast and customizable Python charts
 - [PriorLabs/TabPFN](https://github.com/PriorLabs/TabPFN) - ⚡ TabPFN: Foundation Model for Tabular Data ⚡
 - [HazyResearch/meerkat](https://github.com/HazyResearch/meerkat) - Explore and understand your training and validation data.
 - [sfu-db/dataprep](https://github.com/sfu-db/dataprep) - Open-source low code data preparation library in python. Collect, clean and visualization your data in python with a few lines of code.
@@ -596,6 +598,7 @@
 
 ## data-visualization 
 
+- [reflex-dev/xy](https://github.com/reflex-dev/xy) - Ultra-fast and customizable Python charts
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 - [cxli233/FriendsDontLetFriends](https://github.com/cxli233/FriendsDontLetFriends) - Friends don't let friends make certain types of data visualization - What are they and why are they bad.
 - [mckinsey/vizro](https://github.com/mckinsey/vizro) - Vizro is a low-code toolkit for building high-quality data visualization apps.
@@ -1525,6 +1528,7 @@
 
 ## python 
 
+- [reflex-dev/xy](https://github.com/reflex-dev/xy) - Ultra-fast and customizable Python charts
 - [developmentseed/obstore](https://github.com/developmentseed/obstore) - The simplest, highest-throughput Python interface to S3, GCS & Azure Storage, powered by Rust.
 - [jaypyles/Scraperr](https://github.com/jaypyles/Scraperr) - Self-hosted webscraper.
 - [lightly-ai/lightly-train](https://github.com/lightly-ai/lightly-train) - All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.
