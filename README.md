@@ -25,6 +25,7 @@
 - [Mojo](#mojo)
 - [Others](#others)
 - [PHP](#php)
+- [PowerShell](#powershell)
 - [Python](#python)
 - [R](#r)
 - [Ruby](#ruby)
@@ -224,6 +225,10 @@
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
 - [Leantime/leantime](https://github.com/Leantime/leantime) - Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
+
+## PowerShell 
+
+- [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) - Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, 
 
 ## Python 
 
