@@ -295,7 +295,7 @@
 - [openai/swarm](https://github.com/openai/swarm) - Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
 - [DongjunLee/langdict](https://github.com/DongjunLee/langdict) - Build complex LLM Applications with Python Dictionary
 - [apple/ml-depth-pro](https://github.com/apple/ml-depth-pro) - Depth Pro: Sharp Monocular Metric Depth in Less Than a Second.
-- [pytorch/ao](https://github.com/pytorch/ao) - PyTorch native quantization and sparsity for training and inference
+- [pytorch/ao](https://github.com/pytorch/ao) - PyTorch native quantization for training and inference
 - [Lightning-AI/LitServe](https://github.com/Lightning-AI/LitServe) - A minimal Python framework for building custom AI inference servers with full control over logic, batching, and scaling.
 - [facebookresearch/sapiens](https://github.com/facebookresearch/sapiens) - High-resolution models for human tasks.
 - [amazon-science/QA-ViT](https://github.com/amazon-science/QA-ViT) - 
