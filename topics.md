@@ -183,7 +183,6 @@
 - [tui](#tui)
 - [twitter](#twitter)
 - [typescript](#typescript)
-- [ubuntu](#ubuntu)
 - [ui](#ui)
 - [video](#video)
 - [virtual-reality](#virtual-reality)
@@ -681,7 +680,6 @@
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [lukasmasuch/best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [BloodAxe/pytorch-toolbelt](https://github.com/BloodAxe/pytorch-toolbelt) - PyTorch extensions for fast R&D prototyping and Kaggle farming
-- [kritiksoman/GIMP-ML](https://github.com/kritiksoman/GIMP-ML) - AI for GNU Image Manipulation Program
 
 ## design 
 
@@ -842,6 +840,7 @@
 - [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
 - [StarlightSearch/EmbedAnything](https://github.com/StarlightSearch/EmbedAnything) - Highly Performant, Modular, Memory Safe and Production-ready Inference, Ingestion and Indexing built in Rust 🦀
 - [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Outputs
+- [kritiksoman/GIMP-ML](https://github.com/kritiksoman/GIMP-ML) - AI for GNU Image Manipulation Program
 
 ## git 
 
@@ -1286,7 +1285,7 @@
 ## others 
 
 - [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) - Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, 
-- [HKUDS/OpenSpace](https://github.com/HKUDS/OpenSpace) - "OpenSpace: The Skill Management Layer for AI Agents" -- https://open-space.cloud/
+- [HKUDS/AgentPilot](https://github.com/HKUDS/AgentPilot) - AgentPilot: Better Next Moves for Your Agent. Get Things Done Faster.
 - [0-AI-UG/cate](https://github.com/0-AI-UG/cate) - An infinite zoomable canvas for coding. Editor, terminal, and browser panels in a spatial workspace.
 - [ionutdecebal/rsvpnano](https://github.com/ionutdecebal/rsvpnano) - 
 - [tiangolo/library-skills](https://github.com/tiangolo/library-skills) - Library Agent Skills
@@ -1624,7 +1623,6 @@
 - [scanapi/scanapi](https://github.com/scanapi/scanapi) - Automated Integration Testing and Live Documentation for your API
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
-- [kritiksoman/GIMP-ML](https://github.com/kritiksoman/GIMP-ML) - AI for GNU Image Manipulation Program
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 
 ## pytorch 
@@ -1956,10 +1954,6 @@
 - [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [crisanlucid/primusread](https://github.com/crisanlucid/primusread) - PrimusRead — open-source fixation-point reading tool. React, Vite, Tailwind CSS & TypeScript. Import TXT, PDF, DOCX, EPUB · Export bionic EPUB · Reduce reading time up to 30%  ▎· Dark mode
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
-
-## ubuntu 
-
-- [kritiksoman/GIMP-ML](https://github.com/kritiksoman/GIMP-ML) - AI for GNU Image Manipulation Program
 
 ## ui 
 
