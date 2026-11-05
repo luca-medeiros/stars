@@ -1316,7 +1316,7 @@
 - [facebookresearch/faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
 - [prs-eth/thera](https://github.com/prs-eth/thera) - [TMLR 2025] Thera: Aliasing-Free Arbitrary-Scale Super-Resolution with Neural Heat Fields
 - [JackHopkins/factorio-learning-environment](https://github.com/JackHopkins/factorio-learning-environment) - A non-saturating, open-ended environment for evaluating LLMs in Factorio
-- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Reference Servers
 - [AIM-SKKU/QA-TIGER](https://github.com/AIM-SKKU/QA-TIGER) - Question-Aware Gaussian Experts for Audio-Visual Question Answering -- Official Pytorch Implementation (CVPR'25, Highlight)
 - [datalab-to/marker](https://github.com/datalab-to/marker) - Convert PDF to markdown + JSON quickly with high accuracy
 - [deepseek-ai/open-infra-index](https://github.com/deepseek-ai/open-infra-index) - Production-tested AI infrastructure tools for efficient AGI development and community-driven innovation
@@ -1628,7 +1628,7 @@
 ## pytorch 
 
 - [lightly-ai/lightly-train](https://github.com/lightly-ai/lightly-train) - All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.
-- [NVlabs/Sana](https://github.com/NVlabs/Sana) - SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer
+- [NVlabs/Sana](https://github.com/NVlabs/Sana) - SANA & Sol: Efficient Generative Models and Full-Stack Training & Inference Engines for Image, Video, and World Modeling
 - [pytorch/ao](https://github.com/pytorch/ao) - PyTorch native quantization for training and inference
 - [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT 
 - [aliasgharkhani/SLiMe](https://github.com/aliasgharkhani/SLiMe) - 1-shot image segmentation using Stable Diffusion
@@ -1721,7 +1721,7 @@
 ## reinforcement-learning 
 
 - [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) - The absolute trainer to light up AI agents.
-- [NVlabs/Sana](https://github.com/NVlabs/Sana) - SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer
+- [NVlabs/Sana](https://github.com/NVlabs/Sana) - SANA & Sol: Efficient Generative Models and Full-Stack Training & Inference Engines for Image, Video, and World Modeling
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
 - [BAILOOL/DoYouEvenLearn](https://github.com/BAILOOL/DoYouEvenLearn) - Essential Guide to keep up with AI/ML/DL/CV
 
