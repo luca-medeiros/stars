@@ -307,7 +307,7 @@
 - [facebookresearch/chameleon](https://github.com/facebookresearch/chameleon) - Repository for Meta Chameleon, a mixed-modal early-fusion foundation model from FAIR.
 - [togethercomputer/Dragonfly](https://github.com/togethercomputer/Dragonfly) - 
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-driving agent platform
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-managing agent platform
 - [NVIDIA/Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer) - A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstre
 - [pydantic/logfire](https://github.com/pydantic/logfire) - AI observability platform for production LLM and agent systems.
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
@@ -547,7 +547,7 @@
 - [gricha/macro-photo](https://github.com/gricha/macro-photo) - An experiment where I ran Claude Code to "improve codebase quality" over 200 times.
 - [apple/embedding-atlas](https://github.com/apple/embedding-atlas) - Embedding Atlas is a tool that provides interactive visualizations for large embeddings. It allows you to visualize, cross-filter, and search embeddings and metadata.
 - [agentset-ai/agentset](https://github.com/agentset-ai/agentset) - The open-source RAG platform: built-in citations, deep research, 22+ file formats, partitions, MCP server, and more.
-- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source AI engineering platform: AI Gateway, agent observability, evals, and prompt/skill management, built on OpenTelemetry. One open platform for every AI call and every agent. Self-host or us
 - [good-lly/s3mini](https://github.com/good-lly/s3mini) - ⚠️  Moved to Code.NOLOG: https://code.nolog.cz/thinking.tools/s3mini - Tiny S3 client. Edge computing ready. No-dep. In Typescript.
 - [jaypyles/Scraperr](https://github.com/jaypyles/Scraperr) - Self-hosted webscraper.
 - [macieklamberski/feedsmith](https://github.com/macieklamberski/feedsmith) - Fast, all‑in‑one JavaScript feed parser and generator for RSS, Atom, RDF, and JSON Feed, with support for popular namespaces and OPML.
