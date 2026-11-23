@@ -28,6 +28,7 @@
 - [backend](#backend)
 - [bash](#bash)
 - [bioinformatics](#bioinformatics)
+- [bot](#bot)
 - [c](#c)
 - [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
@@ -218,6 +219,7 @@
 
 ## agent-skills 
 
+- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 - [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 
 ## agentic-ai 
@@ -333,6 +335,7 @@
 
 ## artificial-intelligence 
 
+- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 - [Lightning-AI/LitServe](https://github.com/Lightning-AI/LitServe) - A minimal Python framework for building custom AI inference servers with full control over logic, batching, and scaling.
 - [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - SoTA production-ready AI retrieval system. Agentic Retrieval-Augmented Generation (RAG) with a RESTful API.
 - [openfoodfacts/openfoodfacts-ai](https://github.com/openfoodfacts/openfoodfacts-ai) - This is a tracking repo for all our AI projects.  🍕 🤖🍼
@@ -360,6 +363,7 @@
 
 ## automation 
 
+- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 - [autoscrape-labs/pydoll](https://github.com/autoscrape-labs/pydoll) - Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions.
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
@@ -428,6 +432,10 @@
 
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
 
+## bot 
+
+- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+
 ## c 
 
 - [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
@@ -458,7 +466,6 @@
 
 ## claude 
 
-- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 - [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Create beautiful slides on the web using a coding agent's frontend skills
 - [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) - Official Firecrawl MCP server, the context API for AI agents: search, scrape, and interact with the web, plus parse, crawl, map, Agent and Monitor, from any MCP client.
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
@@ -467,7 +474,6 @@
 
 ## claude-code 
 
-- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 - [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Create beautiful slides on the web using a coding agent's frontend skills
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [openlit/openlit](https://github.com/openlit/openlit) - Same agent, Smaller bill. The tools and infrastructure to get more work from your AI. Fewer tokens. Less compute. Lower cost.
@@ -501,6 +507,7 @@
 
 ## command-line 
 
+- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 
 ## compiler 
@@ -602,6 +609,7 @@
 ## data-science 
 
 - [reflex-dev/xy](https://github.com/reflex-dev/xy) - Ultra-fast and customizable Python charts
+- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 - [PriorLabs/TabPFN](https://github.com/PriorLabs/TabPFN) - ⚡ TabPFN: Foundation Model for Tabular Data ⚡
 - [HazyResearch/meerkat](https://github.com/HazyResearch/meerkat) - Explore and understand your training and validation data.
 - [sfu-db/dataprep](https://github.com/sfu-db/dataprep) - Open-source low code data preparation library in python. Collect, clean and visualization your data in python with a few lines of code.
@@ -770,6 +778,7 @@
 
 ## dsh-plugin 
 
+- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 - [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 
 ## electron 
@@ -877,6 +886,7 @@
 
 ## golang 
 
+- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 - [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab) - High-performance browser automation bridge and multi-instance orchestrator with advanced stealth injection and real-time dashboard.
 - [ashvardanian/NumKong](https://github.com/ashvardanian/NumKong) - Mixed-precision math, linear-algebra & retrieval kernels, 4000+ symbols from 4-bit numbers to 128-bit complex, for x86, Arm, RISC-V, LoongArch, Power & WASM, AMX & SME included 📐
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 An orchestration engine for background tasks, AI agents, and durable workflows
@@ -1216,6 +1226,7 @@
 
 ## nlp 
 
+- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 - [AnswerDotAI/ModernBERT](https://github.com/AnswerDotAI/ModernBERT) - Bringing BERT into modernity via both architecture changes and scaling
 - [TinyLLaVA/TinyLLaVA_Factory](https://github.com/TinyLLaVA/TinyLLaVA_Factory) - A Framework of Small-scale Large Multimodal Models
 - [openfoodfacts/openfoodfacts-ai](https://github.com/openfoodfacts/openfoodfacts-ai) - This is a tracking repo for all our AI projects.  🍕 🤖🍼
@@ -1306,6 +1317,7 @@
 
 ## osint 
 
+- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 - [lissy93/web-check](https://github.com/lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 
 ## others 
@@ -1646,6 +1658,7 @@
 
 ## python3 
 
+- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 - [scanapi/scanapi](https://github.com/scanapi/scanapi) - Automated Integration Testing and Live Documentation for your API
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
@@ -1932,6 +1945,7 @@
 
 ## terminal 
 
+- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 - [Textualize/toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
